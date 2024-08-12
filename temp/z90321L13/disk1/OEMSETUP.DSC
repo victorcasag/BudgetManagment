@@ -1,0 +1,45 @@
+;
+; Driver Installer Section (For DrvInst)
+;
+; Copyright (c) 2007-2020 RICOH COMPANY, LTD
+; All Rights Reserved
+;
+
+[DrvInst]
+DrvInst=Gestetner MP C4502 PCL 6,Gestetner MP C5502 PCL 6,Gestetner MP C4502A PCL 6,Gestetner MP C5502A PCL 6,infotec MP C4502 PCL 6,infotec MP C5502 PCL 6,infotec MP C4502A PCL 6,infotec MP C5502A PCL 6,LANIER MP C4502 PCL 6,LANIER MP C5502 PCL 6,LANIER MP C4502A PCL 6,LANIER MP C5502A PCL 6,NRG MP C4502 PCL 6,NRG MP C5502 PCL 6,NRG MP C4502A PCL 6,NRG MP C5502A PCL 6,RICOH Aficio MP C4502 PCL 6,RICOH Aficio MP C5502 PCL 6,RICOH Aficio MP C4502A PCL 6,RICOH Aficio MP C5502A PCL 6,SAVIN MP C4502 PCL 6,SAVIN MP C5502 PCL 6,SAVIN MP C4502A PCL 6,SAVIN MP C5502A PCL 6
+Comment="PCL6 Driver (For Windows)"
+DriverType=PCL6
+DriverArchitecture=ARC2010
+Version=3
+IniFileName=rpdinstv.ini,allusers
+IniFileSupport=3
+ScenarioInstallOK=ON
+RConfigFileOSVersion=3
+DriverVersion=1.10.0.0
+Platform=NTamd64
+RCFFormatVersion=1.0
+UserCodeOK=ON
+ModelName.Gestetner MP C4502 PCL 6 = "MP C4502"
+ModelName.Gestetner MP C5502 PCL 6 = "MP C5502"
+ModelName.Gestetner MP C4502A PCL 6 = "MP C4502A"
+ModelName.Gestetner MP C5502A PCL 6 = "MP C5502A"
+ModelName.infotec MP C4502 PCL 6 = "MP C4502"
+ModelName.infotec MP C5502 PCL 6 = "MP C5502"
+ModelName.infotec MP C4502A PCL 6 = "MP C4502A"
+ModelName.infotec MP C5502A PCL 6 = "MP C5502A"
+ModelName.LANIER MP C4502 PCL 6 = "MP C4502"
+ModelName.LANIER MP C5502 PCL 6 = "MP C5502"
+ModelName.LANIER MP C4502A PCL 6 = "MP C4502A"
+ModelName.LANIER MP C5502A PCL 6 = "MP C5502A"
+ModelName.NRG MP C4502 PCL 6 = "MP C4502"
+ModelName.NRG MP C5502 PCL 6 = "MP C5502"
+ModelName.NRG MP C4502A PCL 6 = "MP C4502A"
+ModelName.NRG MP C5502A PCL 6 = "MP C5502A"
+ModelName.RICOH Aficio MP C4502 PCL 6 = "Aficio MP C4502"
+ModelName.RICOH Aficio MP C5502 PCL 6 = "Aficio MP C5502"
+ModelName.RICOH Aficio MP C4502A PCL 6 = "Aficio MP C4502A"
+ModelName.RICOH Aficio MP C5502A PCL 6 = "Aficio MP C5502A"
+ModelName.SAVIN MP C4502 PCL 6 = "MP C4502"
+ModelName.SAVIN MP C5502 PCL 6 = "MP C5502"
+ModelName.SAVIN MP C4502A PCL 6 = "MP C4502A"
+ModelName.SAVIN MP C5502A PCL 6 = "MP C5502A"

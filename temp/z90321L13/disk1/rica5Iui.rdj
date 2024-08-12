@@ -1,0 +1,13 @@
+{
+	"ini_list"	: 
+	[
+		{
+			"PrinterModelName"	: ["MP C4502","MP C5502","MP C4502A","MP C5502A","Aficio MP C4502","Aficio MP C5502","Aficio MP C4502A","Aficio MP C5502A"],
+			"LoadDll"			: "MFRICR64.dll",
+			"ResDll"			: "MPC42d64.dll",
+			"Version"			: "1.1.18.0"
+			
+		}
+	]
+}
+

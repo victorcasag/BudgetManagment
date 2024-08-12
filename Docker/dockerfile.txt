@@ -1,0 +1,8 @@
+﻿FROM postgres:14
+
+LABEL author="Victor Casagrande"
+LABEL description="Postgres Image"
+LABEL version="1.0"
+
+FROM postgres
+COPY init.sql /docker-entrypoint-initdb.d/

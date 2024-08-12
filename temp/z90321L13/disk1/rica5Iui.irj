@@ -1,0 +1,202 @@
+{
+
+	"common" :
+	{
+
+		"root" :
+		{
+			"Logging"								: [ "1",					"REG_DWORD" ]
+		},
+
+		"common_scope" :
+		{
+			"DriverProductVersion"		: [ "1.10.0.0",		"REG_SZ" ],
+			"Date"				: [ "04/22/2020",	"REG_SZ" ],
+			"PrinterModelName"		: [ "MP C4502",	"REG_SZ" ],
+			"PDL"						: [ "PCLXL",				"REG_SZ" ]
+		},
+
+		"ui_scope" :
+		{
+		},
+
+		"gr_scope" :
+		{
+		},
+
+		"capsdb_scope" :
+		{
+		}
+
+	},
+
+       "Gestetner MP C4502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502", "REG_SZ" ]
+               }
+       },
+       "Gestetner MP C5502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502", "REG_SZ" ]
+               }
+       },
+       "Gestetner MP C4502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502A", "REG_SZ" ]
+               }
+       },
+       "Gestetner MP C5502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502A", "REG_SZ" ]
+               }
+       },
+"infotec MP C4502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502", "REG_SZ" ]
+               }
+       },
+       "infotec MP C5502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502", "REG_SZ" ]
+               }
+       },
+       "infotec MP C4502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502A", "REG_SZ" ]
+               }
+       },
+       "infotec MP C5502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502A", "REG_SZ" ]
+               }
+       },
+"LANIER MP C4502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502", "REG_SZ" ]
+               }
+       },
+       "LANIER MP C5502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502", "REG_SZ" ]
+               }
+       },
+       "LANIER MP C4502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502A", "REG_SZ" ]
+               }
+       },
+       "LANIER MP C5502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502A", "REG_SZ" ]
+               }
+       },
+"NRG MP C4502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502", "REG_SZ" ]
+               }
+       },
+       "NRG MP C5502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502", "REG_SZ" ]
+               }
+       },
+       "NRG MP C4502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502A", "REG_SZ" ]
+               }
+       },
+       "NRG MP C5502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502A", "REG_SZ" ]
+               }
+       },
+"RICOH Aficio MP C4502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "Aficio MP C4502", "REG_SZ" ]
+               }
+       },
+       "RICOH Aficio MP C5502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "Aficio MP C5502", "REG_SZ" ]
+               }
+       },
+       "RICOH Aficio MP C4502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "Aficio MP C4502A", "REG_SZ" ]
+               }
+       },
+       "RICOH Aficio MP C5502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "Aficio MP C5502A", "REG_SZ" ]
+               }
+       },
+"SAVIN MP C4502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502", "REG_SZ" ]
+               }
+       },
+       "SAVIN MP C5502 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502", "REG_SZ" ]
+               }
+       },
+       "SAVIN MP C4502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C4502A", "REG_SZ" ]
+               }
+       },
+       "SAVIN MP C5502A PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP C5502A", "REG_SZ" ]
+               }
+       }
+ 
+}
