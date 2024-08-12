@@ -26,7 +26,7 @@ This is an application developed in VB with .NET 4.8 in Visual Studio, designed 
 
 - **Programming Language**: VB.NET
 - **Framework**: .NET 4.8
-- **Database**: SQL Server (or other configured database)
+- **Database**: SQL Server
 - **Report Generation**: Excel
 
 ## Requirements
